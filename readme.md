@@ -43,7 +43,7 @@ Trabajo con una mentalidad **emprendedora**: lanzo rápido, valido y escalo. Par
 
 - ✉️ cristian.ezequiel.hermosa@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cristian-hermosa-)  
-- 🔗 [Portfolio (en construcción)](https://cristian-portfolio-web.vercel.app)  
+- 🔗 [Portfolio](https://cristian-portfolio-web.vercel.app)  
 - 🌎 Argentina (UTC-3) | Disponibilidad remota
 
 ---
