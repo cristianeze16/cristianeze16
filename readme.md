@@ -63,3 +63,6 @@ Trabajo con una mentalidad **emprendedora**: lanzo rápido, valido y escalo. Par
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristianeze16&show_icons=true&theme=radical" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cristianeze16&label=Visitas&color=blueviolet&style=flat" alt="Contador de visitas" />
+</p>
